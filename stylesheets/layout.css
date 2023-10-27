@@ -940,7 +940,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
     font-weight: 600;
-    position: relative;
+    position: absolute;
     left: 810px;
     top: 390px;
     width: 563px;
@@ -1134,10 +1134,11 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 45px;
     font-weight: 700;
-    position: absolute;
+    position: relative;
     left: 67.5px;
     top: 75px;
     text-align: left;
+    text-decoration: none;
 }
 
 .foot img {
