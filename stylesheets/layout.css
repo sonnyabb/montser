@@ -751,7 +751,7 @@ body {
     font-size: 67.5px;
     font-weight: 700;
     text-transform: uppercase;
-    position: absolute;
+    position: relative;
     left: 110px;
     top: 644.62px;
 }
@@ -762,7 +762,7 @@ body {
     font-size: 67.5px;
     font-weight: 700;
     text-transform: uppercase;
-    position: absolute;
+    position: relative;
     left: 697.5px;
     top: 770.25px;
 }
@@ -839,7 +839,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
     font-weight: 500;
-    position: absolute;
+    position: relative;
     left: 67.5px;
 }
 
@@ -939,7 +939,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
     font-weight: 600;
-    position: absolute;
+    position: relative;
     left: 810px;
     top: 390px;
     width: 563px;
@@ -948,7 +948,7 @@ body {
     background: #FFF;
     box-shadow: 6px 6px 6px 0px rgba(3, 234, 255, 0.25);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     text-align: center;
     text-transform: uppercase;
@@ -969,7 +969,7 @@ body {
     font-size: 45px;
     font-weight: 500;
     font-style: italic;
-    position: absolute;
+    position: relative;
     left: 405px;
     top: 660px;
     width: 920px;
@@ -978,7 +978,7 @@ body {
     background: #FFF;
     box-shadow: 6px 6px 6px 0px rgba(110, 57, 242, 0.25);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     text-align: center;
     text-transform: uppercase;
@@ -1009,7 +1009,7 @@ body {
     background: #FFF;
     box-shadow: 6px 6px 6px 0px rgba(235, 18, 86, 0.25);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     text-align: left;
     padding-left: 35px;
@@ -1044,7 +1044,7 @@ body {
     background: #FFF;
     box-shadow: 6px 6px 6px 0px rgba(3, 234, 255, 0.25);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     text-align: left;
     padding-left: 67.5px;
@@ -1133,7 +1133,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 45px;
     font-weight: 700;
-    position: absolute;
+    position: relative;
     left: 67.5px;
     top: 75px;
     text-align: left;
