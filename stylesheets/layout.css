@@ -17,7 +17,7 @@ body {
 .central {
     font-family: 'Montserrat', sans-serif;
     color: #EB1256;
-    font-size: 146.25px;
+    font-size: 145px;
     font-weight: 700;
     position: relative;
     left: 135px;
@@ -50,7 +50,7 @@ body {
     background: #FFF;
     box-shadow: 6px 6px 6px 0px rgba(3, 234, 255, 0.25);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     text-align: left;
     padding-left: 46.95px;
@@ -62,7 +62,7 @@ body {
     font-size: 50.625px;
     font-style: italic;
     font-weight: 500;
-    position: absolute;
+    position: relative;
     left: 630px;
     top: 165.46px;
     width: 630px;
@@ -94,7 +94,7 @@ body {
     font-size: 22.5px;
     font-style: italic;
     font-weight: 400;
-    position: absolute;
+    position: relative;
     left: 1035px;
     top: 490px;
     width: 473px;
@@ -104,7 +104,7 @@ body {
     background: #FFF;
     box-shadow: 6px 6px 6px 0px rgba(3, 234, 255, 0.25);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
 }
 
@@ -114,7 +114,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 52px;
     font-weight: 800;
-    position: absolute;
+    position: relative;
     left: 1080px;
     top: 235.25px;
     width: 293px;
@@ -123,7 +123,7 @@ body {
     background: #FFF;
     box-shadow: 6px 6px 6px 0px rgba(3, 234, 255, 0.25);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
 }
 
@@ -141,7 +141,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 34px;
     font-weight: 600;
-    position: absolute;
+    position: relative;
     left: 67.5px;
     top: 524px;
     width: 273px;
