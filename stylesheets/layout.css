@@ -151,7 +151,7 @@ body {
     background: #FFF;
     box-shadow: 6px 6px 6px 0px rgba(110, 57, 242, 0.25);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     text-align: left;
     padding-left: 20px;
@@ -162,7 +162,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 40px;
     font-weight: 800;
-    position: absolute;
+    position: relative;
     left: 405px;
     top: 703px;
     width: 405px;
@@ -172,7 +172,7 @@ body {
     background: #FFF;
     box-shadow: 6px 6px 6px 0px rgba(110, 57, 242, 0.25);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     text-align: center;
 }
@@ -260,7 +260,7 @@ body {
     font-style: italic;
     font-weight: 600;
     text-transform: uppercase;
-    position: absolute;
+    position: relative;
     left: 405px;
     top: 718px;
     width: 968px;
@@ -270,7 +270,7 @@ body {
     background: #FFF;
     box-shadow: 6px 6px 6px 0px rgba(110, 57, 242, 0.25);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     text-align: center;
 }
@@ -320,7 +320,7 @@ body {
     font-style: italic;
     font-size: 22.5px;
     font-weight: 400;
-    position: absolute;
+    position: relative;
     left: 967.5px;
     top: 647px;
     width: 473px;
@@ -329,7 +329,7 @@ body {
     background: #FFF;
     box-shadow: 6px 6px 6px 0px rgba(3, 234, 255, 0.25);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     text-align: center;
     text-transform: uppercase;
@@ -427,14 +427,14 @@ body {
     text-transform: uppercase;
     width: 530px;
     height: 214px;
-    position: absolute;
+    position: relative;
     left: 972px;
     top: 313px;
     border: 6px solid #6E39F2;
     background: #FFF;
     box-shadow: 6px 6px 6px 0px rgba(110, 57, 242, 0.25);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     text-align: center;
 }
@@ -712,7 +712,7 @@ body {
     font-style: italic;
     font-size: 50.625px;
     font-weight: 200;
-    position: absolute;
+    position: relative;
     left: -13.5px;
     top: 110px;
     width: 603px;
@@ -722,7 +722,7 @@ body {
     background: #FFF;
     box-shadow: 6px 6px 6px 0px rgba(110, 57, 242, 0.25);
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     justify-content: center;
     text-align: center;
 }
